@@ -1,0 +1,7 @@
+{
+  "name": "Copy of WallCraft - AI Photo Enhancer",
+  "description": "A high-end AI image editor that transforms your photos into stunning mobile wallpapers using Gemini 2.5 Flash Image. Clarify, resize, and edit with simple text commands.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
